@@ -1,4 +1,10 @@
-<h1 align="center">Join Me 🚀</h1>
+<h1 align="center">We are looking for long-term collaborators from around the world. 🚀</h1>
 <p align="justify">
-  &nbsp Hi everyone, I’m looking for people to work with me remotely. It doesn’t matter if you have skills or not—anyone can join and contribute. If you’re interested in collaborating, learning, or just being part of a project, feel free to reach out!
+Global collaboration is very important today, and we believe working with good people internationally creates better opportunities for everyone.
+
+This is not a job post. We are simply looking to connect with motivated and reliable people for long-term collaboration and future projects.
+
+IT or business experience is a plus, but not required.
+
+Feel free to send a short introduction if interested.
 </p>
