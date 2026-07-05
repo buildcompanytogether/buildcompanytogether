@@ -1,10 +1,12 @@
-<h1 align="center">We are looking for long-term collaborators from around the world. 🚀</h1>
+<h1 align="center">Looking for long-term collaborators from around the world. 🚀</h1>
 <p align="justify">
-Global collaboration is very important today, and we believe working with good people internationally creates better opportunities for everyone.
+Global collaboration is more important than ever, and I believe that connecting with more people around the world creates more opportunities for everyone to increase their income.
 
-This is not a job post. We are simply looking to connect with motivated and reliable people for long-term collaboration and future projects.
+This is not a job posting. I'm simply looking to connect with motivated and reliable people for long-term collaboration and future projects.
 
-IT or business experience is a plus, but not required.
+Your role is simple, but it's very important to my business. Everything is done remotely, and I'll provide guidance and support whenever needed.
 
-Feel free to send a short introduction if interested.
+Experience in IT or business is a plus, but it's not required. Everyone is welcome.
+
+Want to connect? Just send me a "Hi!"
 </p>
