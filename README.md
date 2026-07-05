@@ -8,5 +8,5 @@ Your role is simple, but it's very important to my business. Everything is done 
 
 Experience in IT or business is a plus, but it's not required. Everyone is welcome.
 
-Want to connect? Just send me a "Hi!"
+Want to connect? Just send me a "Hi!" 👋
 </p>
